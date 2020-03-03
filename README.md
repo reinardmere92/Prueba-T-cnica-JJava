@@ -1,2 +1,2 @@
-# Prueba-T-cnica-JJava
+# Prueba-Técnica-JJava
 Zitro Games
